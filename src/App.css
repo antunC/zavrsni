@@ -1,0 +1,168 @@
+
+.naslov{
+  margin-left: 35%;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-size: 30px;
+  padding-top: 30px;
+  background-color: red;
+
+  width: 90vw;
+  margin-left: 5%;
+  margin-left: 5%;
+  height: 300px;
+  background-image: url(torcida.jpg);
+  background-repeat: no-repeat  ;
+  background-position: center;
+}
+#naslov{
+  color: white;
+  font-size: 70px;
+  margin-left: 50px;
+  margin-top: 100px;
+
+  width: 440px;
+
+}
+.kontejner{
+  height: auto;
+}
+
+.opcenito{
+  display: flex;
+}
+
+/* .box{
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  background: #7198e4;
+  border-radius: 50px;
+  color: aliceblue;
+  flex-basis: 20%;
+  flex-direction: column;
+  padding: 5px;
+} */
+.b , .d{
+  margin-top: 30%;
+  background-color: #d15963;
+}
+
+.pov{
+  text-indent: 40px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
+}
+
+
+
+.nav-items {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  background-color: rgb(76, 76, 237);
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  color: aliceblue;
+  
+}
+
+.navbar{
+  width: 90vw;
+  margin-left: 5%;
+  margin-right:  5%;
+
+}
+
+.a{
+  text-indent: 40px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
+}
+
+
+
+
+.slike{
+  width: 300px;
+  height: 300px;
+}
+
+.shop{
+  width: 400px;
+  height: 450px;
+  text-align: center;
+  font-size: 10px;
+  font-style: bold;
+  border: 2px solid black;
+
+}
+
+.glavni_fan{
+  display: flex;
+  flex-direction: row;
+  flex-basis: 23%;
+  max-width: 100%;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.link{
+  text-decoration: none;
+  font-size: 10px;
+}
+
+
+.lokacija_txt{
+  text-indent: 25px;
+  font-size: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.poljud{
+  margin-left: 20%;
+}
+.clanstvo{
+  margin-left: 30%;
+}
+.forme{
+  margin-left: 18%;
+}
+.uclanjenje{
+  margin-left: -8%;
+}
+
+
+
+.footer{
+  background-image: url(footer.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 100vw;
+  height: 500px;
+  color: white;
+  text-align: center;
+}
+.slikeb{
+  width: 150px;
+  height: 90px;
+
+}
+
+.slikaa{
+
+  display: flex;
+  flex-direction: row;
+  flex-basis: 20%;
+  max-width: 100%;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+}
